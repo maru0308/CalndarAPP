@@ -31,7 +31,7 @@ CalendarIosAPP を動かすのに必要なライブラリや環境
 
 
 ## License
-Simple-SwiftUI-Calendar は MIT license のもとで公開されています。
+Simple-SwiftUI-Calendar は MIT license のもとで公開されています
 
 
 
